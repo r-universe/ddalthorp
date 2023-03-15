@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cbinom"]
+	path = cbinom
+	url = https://github.com/ddalthorp/cbinom
+	shallow = true
+	registered = true
+[submodule "dwp"]
+	path = dwp
+	url = https://github.com/ddalthorp/dwp
+	shallow = true
+	registered = true
+[submodule "eoa3"]
+	path = eoa3
+	url = https://github.com/ddalthorp/eoa3
+	shallow = true
+	registered = true
+[submodule "GenEst"]
+	path = GenEst
+	url = https://github.com/ddalthorp/genest
+	shallow = true
+	registered = true

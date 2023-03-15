@@ -1,0 +1,18 @@
+[
+  {
+    "package": "cbinom",
+    "oncran": true
+  },
+  {
+    "package": "dwp",
+    "oncran": true
+  },
+  {
+    "package": "eoa3",
+    "oncran": true
+  },
+  {
+    "package": "GenEst",
+    "oncran": true
+  }
+]
