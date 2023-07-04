@@ -8,9 +8,6 @@
 [submodule "dwp"]
 	path = dwp
 	url = https://github.com/ddalthorp/dwp
-[submodule "eoa3"]
-	path = eoa3
-	url = https://github.com/ddalthorp/eoa3
 [submodule "GenEst"]
 	path = GenEst
 	url = https://github.com/ddalthorp/genest
